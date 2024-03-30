@@ -1,6 +1,6 @@
 ## Libasm-Linux
 
-## How to compile assembly code
+## How to compile
 
 ``` bash
 nasm -felf64 file.asm && ld file.o && ./a.out
